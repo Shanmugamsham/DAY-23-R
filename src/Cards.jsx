@@ -13,6 +13,9 @@ const Cards = (props) => {
       
           
             <div className='card-s '>
+                <div className='mt-2 salebtn '  >
+                <button className='sale'>{props.sale?"Sale":"Soldout"}</button>
+                </div>
                 <img src={props.images} className='image-card'/>
                 <h1>{props.heading}</h1>
                 <p>{props.price}</p>
