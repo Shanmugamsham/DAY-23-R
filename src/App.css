@@ -1,0 +1,37 @@
+.card-s{
+  height:100%;
+  width:100%;
+  border-radius:25px ;
+  color:black;
+  border:2px solid black;
+  margin-top:30px;
+  box-shadow: inset;
+  box-shadow: 10px 10px  rgb(0, 191, 255);
+  
+}
+h1{
+  font-family:'Times New Roman', Times, serif;
+  font-size:20px;
+  text-align:center;
+}
+p{
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  text-align:center;
+
+}
+.btns{
+  text-align:center;
+  color:black;
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  text-align:center;
+  border: 1px solid black;
+  
+
+}
+.image-card{
+  width:100%;
+  margin-top:25px ;
+  
+}
